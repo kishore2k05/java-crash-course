@@ -14,18 +14,6 @@ By the end of this module, you should be able to:
 
 ---
 
-## 📂 Folder Structure
-
-This module's folder contains the following sub-sections:
-
-| Sub-Folder / File | Content Description |
-| :--- | :--- |
-| `src/` | **Source Code Examples:** Contains all `.java` files demonstrating concepts. |
-| `notes/` | **Detailed Notes:** Markdown or PDF files with theory, definitions, and rules. |
-| `quiz.md` | A quick knowledge check or self-assessment questions. |
-
----
-
 ## 🔑 Key Concepts Covered
 
 ### 1. Variables
