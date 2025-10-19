@@ -1,11 +1,11 @@
-📦 Module 03: Control Flow Statements
+# 📦 Module 03: Control Flow Statements
 
 This module explores how Java programs make decisions and repeat actions.  
 Control flow determines **which parts of your program execute and when** — allowing your code to think, decide, and loop intelligently rather than run linearly from top to bottom.
 
 ---
 
-🎯 Learning Objectives
+## 🎯 Learning Objectives
 
 By the end of this module, you should be able to:
 
@@ -17,9 +17,9 @@ By the end of this module, you should be able to:
 
 ---
 
-🔑 Key Concepts Covered
+## 🔑 Key Concepts Covered
 
-### 1. Conditional Statements
+### 1️⃣ Conditional Statements
 
 Allow the program to make **decisions** based on specific conditions.
 
@@ -32,7 +32,7 @@ Allow the program to make **decisions** based on specific conditions.
 
 ---
 
-### 2. Looping Statements
+### 2️⃣ Looping Statements
 
 Used to **repeat** actions multiple times.
 
@@ -45,7 +45,7 @@ Used to **repeat** actions multiple times.
 
 ---
 
-### 3. Jump Statements
+### 3️⃣ Jump Statements
 
 Used to **alter** the normal flow of loops.
 
@@ -57,7 +57,7 @@ Used to **alter** the normal flow of loops.
 
 ---
 
-### 4. Comparison and Logical Operators
+### 4️⃣ Comparison and Logical Operators
 
 | Type | Operators | Purpose | Example |
 |------|------------|----------|----------|
@@ -66,11 +66,10 @@ Used to **alter** the normal flow of loops.
 
 ---
 
-### 5. Nested Control Flow
+### 5️⃣ Nested Control Flow
 
 Combining multiple control structures (e.g., an `if` inside a `for` loop) enables complex decision-making.
 
-Example:
 ```java
 for (int i = 1; i <= 3; i++) {
     if (i % 2 == 0) {
