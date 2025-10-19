@@ -40,7 +40,7 @@ public class loops {
         for (i = 0; i<=10; i++) {
             System.out.println(i);
             if (i == 3) {
-                continue;
+                continue; // Skips the current iteration and goes to the next one.
             }
         }
     }
